@@ -1,0 +1,12 @@
+[submodule "minisig-semantics"]
+	path = minisig-semantics
+	url = https://github.com/wolflo/minisig-semantics.git
+	branch = master
+[submodule "minisig.sol"]
+	path = minisig.sol
+	url = https://github.com/wolflo/minisig.sol.git
+	branch = master
+[submodule "minisig.huff"]
+	path = minisig.huff
+	url = https://github.com/wolflo/minisig.huff.git
+	branch = master
