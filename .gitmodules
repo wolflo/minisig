@@ -10,3 +10,7 @@
 	path = minisig.huff
 	url = https://github.com/wolflo/minisig.huff.git
 	branch = master
+[submodule "minisig.vy"]
+	path = minisig.vy
+	url = https://github.com/wolflo/minisig.vy
+	branch = main
