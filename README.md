@@ -8,3 +8,7 @@ Minisig is a ruthlessly simplified multisignature wallet written in raw evm byte
 - [minisig.sol](https://github.com/wolflo/minisig.sol.git) is a solidity reference implementation that maps as closely as possible to the huff implementation.
 - [minisig.vy](https://github.com/wolflo/minisig.vy) is a vyper implementation with some significant compromises (such as a hardcoded number of signers).
 - [minisig.huff](https://github.com/wolflo/minisig.huff.git) is the huff implementation.
+
+
+
+Inspired by SilentCicero's yul [MultiSignatureWallet](https://github.com/SilentCicero/MultiSignatureWallet) and Christian Lundkvist's [simple-multisig](https://github.com/christianlundkvist/simple-multisig).
