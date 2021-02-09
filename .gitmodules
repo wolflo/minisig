@@ -14,3 +14,7 @@
 	path = minisig.vy
 	url = https://github.com/wolflo/minisig.vy
 	branch = main
+[submodule "minisig.k"]
+	path = minisig.k
+	url = https://github.com/wolflo/minisig.k
+	branch = main
